@@ -15,7 +15,7 @@ FN FAL（法語：Fusil Automatique Légère，直譯：「輕型自動步槍」
 
 [老司機開車](https://www.youtube.com/watch?v=nanlbtmLE1E)
 
-![](800x_100_w-6007cc28117ad)
+![](https://github.com/asd680429/New-Web-page/blob/gh-pages/800x_100_w-6007cc28117ad.jpeg)
 
 ![](https://github.com/asd680429/New-Web-page/blob/gh-pages/895623.gif)
 

@@ -16,9 +16,9 @@ FN FAL（法語：Fusil Automatique Légère，直譯：「輕型自動步槍」
 
 ![cop](https://i.imgur.com/yc2LFDi.jpg)
 
-* 列表1
-** 列表二
-*** 列表三
+* 列表一
+* 列表二
+* 列表三
 
 - Bulleted
 - List
